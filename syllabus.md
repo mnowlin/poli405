@@ -2,85 +2,28 @@
 title: Syllabus
 category: syllabus
 layout: default
-pdf: poli307syllabus.pdf
+pdf: poli405syllabus.pdf
 ---
 
 # Course Description
 
-[Catalog course description](https://ssb.cofc.edu:9710/prod/bwckctlg.p_display_courses?term_in=201520&one_subj=POLI&sel_crse_strt=307&sel_crse_end=307&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
+[Catalog course description](https://ssb.cofc.edu:9710/prod/bwckctlg.p_display_courses?term_in=201520&one_subj=POLI&sel_crse_strt=405&sel_crse_end=405&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
 
-This course is an advanced undergraduate course.  We will examine the
-central dimensions of environmental politics and policy in the United
-States.
-
-The course will provide an overview of the development of environmental policy issues, including a brief history on the develop of environmental politics in the U.S. In addition, the course will also provide a theoretical base for understanding policy changes in the U. S. Major portions of the course will be devoted to examining the fundamental beliefs and attitudes that
-have shaped environmental policies; the major political institutions in the U.S. that conceive, design, implement, and revise environmental policies; the role of science and risk assessment in environmental policy; and the application of economic principles to environmental issues.
-
-The format of the course will be a mixture of lecture, discussion, and group work. Students should come to each class prepared to participate in discussion. This means you have reviewed your notes from previous classes and have read the readings in advance of class. You are encouraged to bring your internet capable device (laptop, tablet, smart--phone) to class for discussion and group work, _however these devices are not to be used in a way that is distracting to your professor or your classmates_
 
 # Course Goals and Learning Objectives
 
-The goals for this course are to:
+# Required Books
 
-* Develop an understanding of the evolution of environmental
-  policy and politics in the U.S. 
+Jones, Bryan D., and Frank R. Baumgartner. 2005. [_The Politics of Attention: How Government Prioritizes Problems_](http://www.amazon.com/Politics-Attention-Government-Prioritizes-Problems/dp/0226406539/ref=sr_1_1?ie=UTF8&qid=1419820952&sr=8-1&keywords=politics+of+attentions). Chicago, IL: University Of Chicago Press.
 
-* Develop an understanding of the major policymaking institutions
-  including the Congress, the President, Executive Agencies, the
-  Courts, and their role in environmental policymaking. 
+Baumgarter, Frank R., and Bryan D. Jones. 2015. [_The Politics of Information: Problem Definition and the Course of Public Policy in America_](http://www.amazon.com/Politics-Information-Problem-Definition-America/dp/022619812X/ref=sr_1_1?s=books&ie=UTF8&qid=1419821061&sr=1-1&keywords=politics+of+information). Chicago, IL: University Of Chicago Press.
 
-* Develop an understanding of the process of policymaking in the
-  U.S. with regard to environmental issues. 
-
-* Develop an understanding of how science is used (or not) in the
-  environmental policy making process. 
-
-* Develop an understanding of how basic principles of economics
-  can be used in the design of policies to address environmental
-  issues. 
-
-* Develop in--depth knowledge about a particular topic within the
-  broad field of environmental policy. 
 
 # Course Requirements and Grading
 
-Performance in this course will be evaluated on the basis of three papers, a mid--term exam, final exam (presentation), and your participation in the course.
-
-Points will be distributed as follows:
-
-* Readings Quizzes: (5 @20 pts each) 100 points
-* Paper 1: 100 points 
-* Paper 2: 100 points 
-* Paper 3: 100 points 
-* Mid--Term Exam: 100 points 
-* Final Exam (presentation): 100 points 
-* Participation: 100 points 
-* _Total: 700 points_
 
 ## Assignments
 
-_Reading Quizzes_: There will be five "pop" reading quizzes throughout the semester. These quizzes will be given randomally in class. They will cover the assigned reading for the week (see the schedule below) and can only be taken in class. __No make-up quizzes will be possible__. 
-
-_Papers_: Papers will be expected to be the equivalent of 3--4 double spaced
-pages, with 1" margins, and 12-point Times New Roman font. Because
-the papers are short, I will expect well organized, clear, concise, and professional quality writing. Full and appropriate citations are expected, with any citation style (e.g., MLA, APA, Chicago) you prefer. Consider making use of the [Writing Lab](http://csl.cofc.edu/labs/writing-lab) available on campus. More information about the requirements, including due date, for each paper are under the Assignments tab on the course homepage. Note that paper 3 will include papers 1 and 2. __No late papers will be accepted__. 
-
-_Mid-term_: The mid-term exam will be given on __February 26th__. All material from the readings, lectures, media articles, and in-class discussions are fair game for the mid-term exam.
-
-_Final Exam_: The final exam will consist of a presentation of the topic you explored for your papers. The presentations will be given during the scheduled time for the final exam. You will only have 5 minutes for your presentation, so it needs to be consise and informative.
-
-_Participation_: The participation portion of your grade is based on in--class participation, participation (attendance) in on--campus lectures/events related to environmental policy broadly defined, and class attendance.
-
-* __In-class participation (40%)__: This is a discussion based course and to make it work you need to have read assigned material and be prepared to participate in course discussions. Each week you will write 4 or 5 sentences on a quiz in OAKS about how you contributed to in--class discussion and these quizzes will form the basis of your in--class participation grade. Note that the professor has final say over what does or does not count as adequate participation.
-
-* __Campus participation (40%)__: For the campus participation portion you must attend three lectures/events outside of class and to submit a one page
-response to EACH event/lecture linking the topic of the event/lecture
-to a class reading/discussion. The lectures/events are __subject to
-instructor approval__ and will be announced in class. Students may 
-also suggest on--campus events that they feel would be appropriate, but
-prior approval must be obtained. 
-
-* __Attendance (20%)__: Attendance will be taken for each class. 
 
 ## Grades 
 There are __700__ possible points for this course. Grades will
@@ -100,15 +43,7 @@ percentage of __700__.
 * D-: 60 to 62% 
 * F: 59%  and below 
 
-# Paper Topics 
-
-You are able to choose any topic related to environmental policy that is of interest to you. _Approval from me for your topic is required_ before beginning to work on your papers. Below are some suggested topic areas, however your papers will be about a specific aspect of the broader topic area. Readings about each topic area are posted on [OAKS](https://lms.cofc.edu/). 
-
-* Environmental Justice 
-* Natural Resource Management 
-* Toxic and Hazardous Substances 
-* Energy 
-* Natural Disasters
+# Reasearch Topics 
 
 # Course Outline and Schedule
 
