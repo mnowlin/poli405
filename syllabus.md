@@ -9,6 +9,7 @@ pdf: poli405syllabus.pdf
 
 [Catalog course description](https://ssb.cofc.edu:9710/prod/bwckctlg.p_display_courses?term_in=201520&one_subj=POLI&sel_crse_strt=405&sel_crse_end=405&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=) 
 
+In this course we will make extensive use of the [Policy Agendas website](http://www.policyagendas.org/). 
 
 # Course Goals and Learning Objectives
 
@@ -49,37 +50,19 @@ percentage of __700__.
 
 __SUBJECT TO CHANGE__. Check the [course website](http://mnowlin.github.io/poli307) often for updates. Journal article links are provided and book chapters will be made available on [OAKS](https://lms.cofc.edu/). 
 
-## I. Laying the Groundwork 
+## I. Understanding Public Policymaking 
 
 ### Jan 13th--15th: Introduction and Course Overview
 
-* Layzer, Judith A. 2012. "A Policymaking Framework: Defining Problems and Portraying Solutions in U.S. Environmental Politics", __Chapter 1__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 1--27 on [OAKS](https://lms.cofc.edu/)
+_What is public policy? How is it studied and understood?_
 
-### Jan 20th--22th: Values and Value Conflict 
+### Jan 20th--22th: Information and Agenda Setting
 
-_Controversies in environmental policy often deal with competing values and core beliefs. What are the types of values that influence thinking about the environment?_ 
+_Agenda setting and problem definitions_ 
 
-* Jones, Michael D. 2011. ["Leading the Way to Compromise? Cultural Theory and Climate Change Opinion."](http://dx.doi.org/10.1017/S104909651100134X) _PS: Political Science & Politics_ 44(04): 720–25.
-
-* Dunlap, Riley E., Kent D. Van Liere, Angela G. Mertig, and Robert Emmet Jones. 2000. ["New Trends in Measuring Environmental Attitudes: Measuring Endorsement of the New Ecological Paradigm: A Revised NEP Scale."](http://onlinelibrary.wiley.com/doi/10.1111/0022-4537.00176/abstract) _Journal of Social Issues_ 56(3): 425–42.
-
-* [The Lorax](https://www.youtube.com/watch?v=8V06ZOQuo0k)
 
 ### Jan 27th--29th: Evolution of Environmental Policy in the United States
 
-_How has environmental policy evolved in the United States? What was the role of the environmental movement?_ 
-
-* Kline, Benjamin. 2011. "The 1970s: The Conservation Movement Matures", __Chapter 7__ in _First Along the River: A Brief History of the U.S. Environmental Movement_. Rowman and Littlefield, Lanham, Maryland. 4th Edition., pgs 95--111 on [OAKS](https://lms.cofc.edu/)
-
-* Johnson, Erik W., and Scott Frickel. 2011. ["Ecological Threat and the Founding of U.S. National Environmental Movement Organizations, 1962–1998."](http://www.jstor.org/stable/10.1525/sp.2011.58.3.305) _Social Problems_ 58(3): 305–29.
-
-* Layzer, Judith A. 2012. "Basklash: Wise Use, Property Rights, and Antienvironmental Activism in the 1990s", __Chapter 13__ in _The Environmental Case: Translating Values into Policy_. CQ Press, Washington D.C. 3rd Ed., pgs 383--414 on [OAKS](https://lms.cofc.edu/)
-
-* [World Health Organization Statement on DDT](http://whqlibdoc.who.int/hq/2011/WHO_HTM_GMP_2011_eng.pdf)
-
-* Major Environmental Laws: [EPA website](http://www2.epa.gov/laws-regulations/laws-and-executive-orders)
-
-* [National Environmental Policy Act (NEPA)](http://www2.epa.gov/laws-regulations/summary-national-environmental-policy-act)
 
 ## II. Policymaking Institutions 
 
