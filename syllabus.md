@@ -13,7 +13,7 @@ _Our responsibility is one of decision--for to govern is to choose. - John F. Ke
 
 As stated by President Kennedy, making choices is at the heart of governing. How do policymakers make choices regarding public policy? From where do policymakers draw information? How do policymaking institutions help or hinder the processing of information for policy making? These are the questions that we will examine this semester.
 
-The Capstone seminar in Political Science is designed to be a culminating experience. Therefore, you will be expected to draw upon the ideas and skills you have gained thus far to explore a new topic within the field of Political Science. The major focus of the course is on the development of an orginial research project centered around questions of information use in the policymaking process. The readings in this course are designed to provide you the theoretical and conceptual background needed to develop a project in this area. 
+The Capstone seminar in Political Science is designed to be a culminating experience. Therefore, you will be expected to draw upon the ideas and skills you have gained thus far to explore a new topic within the field of Political Science. The major focus of the course is on the development of an original research project centered around questions of information use in the policymaking process. The readings in this course are designed to provide you the theoretical and conceptual background needed to develop a project in this area. 
 
 This course will be structured as a seminar, meaning that classes will be discussion based rather than lecture based. This requires you to come to class prepared by having done the assigned readings prior to class. In addition, you should be prepared to participate in class by asking questions and making informed comments that add to the class discussion. _Cell phones must be put away during class and the use of laptops for note-taking is STRONGLY DISCOURAGED_. 
 
@@ -28,7 +28,7 @@ The goals for this course are to:
 * Develop an understanding of the process of policymaking in the
   U.S. and the utilization of information within that process.
 
-* Develop an understanding of the lastest research in Political Science and public policy on information use in the policymaking process.
+* Develop an understanding of the latest research in Political Science and public policy on information use in the policymaking process.
 
 * Develop a research project that draws on the skills you have developed in your Political Science courses.
 
@@ -40,7 +40,7 @@ The goals for this course are to:
 
 * Jones, Bryan D., and Frank R. Baumgartner. 2005. [_The Politics of Attention: How Government Prioritizes Problems_](http://www.amazon.com/Politics-Attention-Government-Prioritizes-Problems/dp/0226406539/ref=sr_1_1?ie=UTF8&qid=1419820952&sr=8-1&keywords=politics+of+attentions). Chicago, IL: University Of Chicago Press.
 
-* Baumgarter, Frank R., and Bryan D. Jones. 2015. [_The Politics of Information: Problem Definition and the Course of Public Policy in America_](http://www.amazon.com/Politics-Information-Problem-Definition-America/dp/022619812X/ref=sr_1_1?s=books&ie=UTF8&qid=1419821061&sr=1-1&keywords=politics+of+information). Chicago, IL: University Of Chicago Press.
+* Baumgartner, Frank R., and Bryan D. Jones. 2015. [_The Politics of Information: Problem Definition and the Course of Public Policy in America_](http://www.amazon.com/Politics-Information-Problem-Definition-America/dp/022619812X/ref=sr_1_1?s=books&ie=UTF8&qid=1419821061&sr=1-1&keywords=politics+of+information). Chicago, IL: University Of Chicago Press.
 
 * __Website__: [Policy Agendas Project](http://www.policyagendas.org/). 
 
@@ -52,7 +52,7 @@ Performance in this course will be based on course participation and the researc
 
 _Participation_ (30 points): 
 
-* _Discussion papers_ (24 points): As part of your participation grade you are required to do several discussion papers over the readings assigned for each week. These are _short_ papers (not more than two double-spaced pages) that summarize the major concepts in the readings. These will generally be due before class on Tuesdays and due dates will be on the [course webpage](). __Late papers will not be accepted__. 
+* _Discussion papers_ (24 points): As part of your participation grade you are required to do several discussion papers over the readings assigned for each week. These are _short_ papers (not more than two double-spaced pages) that summarize the major concepts in the readings. These will generally be due before class on Tuesdays and due dates will be on the [course webpage](http://mnowlin.github.io/poli405/). __Late papers will not be accepted__. 
 
 * _In-class participation_ (6 points): This is a discussion based course and to make it work you need to have read assigned material and be prepared to participate in course discussions. Note that the professor has final say over what does or does not count as adequate participation.
 
@@ -132,7 +132,7 @@ __Discussion Paper 2 due on January 27th__
 
 * May, Peter J., Ashley E. Jochim, and Barry Pump. 2013. ["Political Limits to the Processing of Policy Problems."](http://www.librelloph.com/politicsandgovernance/article/view/PaG-1.2.104) _Politics and Governance_ 1(2): 104–16.
 
-__Discussion Paper 3 due on Febuary 3rd__
+__Discussion Paper 3 due on February 3rd__
 
 ### Feb 10th--12th: Attention and Institutions
 
@@ -148,7 +148,7 @@ __Topic (Policy area) Selection and Bibliography due Feb 12th__
 
 * _Politics of Information_: Chapters 1, 2, and 3, pgs 5--60. 
 
-__Discussion Paper 4 due on Febuary 17th__
+__Discussion Paper 4 due on February 17th__
 
 ### Feb 24th--26th: Institutions and Information
 
@@ -158,7 +158,7 @@ __Discussion Paper 4 due on Febuary 17th__
  
 * FILM: _The Unknown Known_ [Trailer](http://www.youtube.com/watch?v=qbz9I-x00RY)
 
-__Discussion Paper 5 due on Febuary 24th__
+__Discussion Paper 5 due on February 24th__
 
 ### March 1st--8th: Spring Break
 
