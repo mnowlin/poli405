@@ -34,6 +34,18 @@ author: POLI 405 Information and Policymaking
 
 ---
 
+### Studying Public Policy
+
+* Knowledge _of_ vs. knowledge _in_
+
+* Knowledge of:
+    * The policymaking process
+
+* Knowledge in:
+    * Used to make policy decisions
+
+---
+
 ## Policy Models 
 
 ### 
