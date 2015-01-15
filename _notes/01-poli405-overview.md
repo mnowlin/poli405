@@ -48,8 +48,6 @@ author: POLI 405 Information and Policymaking
 
 ## Policy Models 
 
-### 
-
 * How is politics defined?
 <!-- laswell: who get what, when, and how -->
 
