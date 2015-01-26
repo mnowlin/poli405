@@ -70,7 +70,3 @@ author: POLI 405 Information and Policymaking
 	* Weak shoulders (moderate changes)
 	* Big tails (punctuations) 
 
-### Example: Government Budgets
-<div class="centered">
-![](budgets.jpg)
-</div>
